@@ -23,7 +23,7 @@ The goal was to move beyond traditional linear pricing models to understand the 
 
 **Visualization**: Matplotlib
 
-📈 **Model Performance**
+## 📈 Model Performance
 The model was evaluated using MAPE (Mean Absolute Percentage Error) to ensure accuracy across both short-haul and long-haul trip profiles.
 
 Mode Error: +11%
