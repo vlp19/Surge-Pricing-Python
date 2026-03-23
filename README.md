@@ -47,7 +47,7 @@ Plaintext
 └── README.md
 
 🚀 **How to Use**
-Clone the repo: git clone https://github.com/yourusername/surge-price-estimation.git
+Clone the repo: git clone *https://github.com/yourusername/surge-price-estimation.git*
 
 Install dependencies: pip install -r requirements.txt
 
